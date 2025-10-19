@@ -1,4 +1,4 @@
-### Olá, eu sou Weslley Cardoso 👋
+### Olá, eu sou Weslley Cardoso Engenheiro de Software 👋
 
 Estudante de Engenharia de Software (FIAP) focado em **Back-End Java & Spring**.
 Trazendo 4 anos de experiência em gestão de negócios e *ownership* para o mundo do desenvolvimento de software.
