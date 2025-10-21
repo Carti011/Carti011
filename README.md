@@ -31,7 +31,7 @@ Trazendo 4 anos de experiência em gestão de negócios e *ownership* para o mun
 
 ### 🚀 Meus Projetos Principais
 
-Meus projetos de destaque estão fixados logo abaixo. Recomendo começar pelo `api-restful-DASA` (Back-end Java/Spring) e pelo `API-ViaCEP`.
+Meus projetos de destaque estão fixados logo abaixo. Recomendo começar pelo `Macro-Measure` uma api restful para DASA (Back-end Java/Spring) e pelo `API-ViaCEP`.
 
 ---
 
