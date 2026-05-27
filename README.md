@@ -68,11 +68,11 @@ Construo software que resolve problema real. Backend Java/Spring + frontend Reac
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Carti011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Snake animation](https://raw.githubusercontent.com/Carti011/Carti011/output/github-snake-dark.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carti011&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Metrics](https://raw.githubusercontent.com/Carti011/Carti011/main/github-metrics.svg)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Carti011&theme=tokyo-night&hide_border=true&area=true)
+![3D Contribution](https://raw.githubusercontent.com/Carti011/Carti011/main/profile-3d-contrib/profile-night-view.svg)
 
 </div>
 
