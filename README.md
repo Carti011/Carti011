@@ -71,8 +71,8 @@ Construo software que resolve problema real. Backend Java/Spring + frontend Reac
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Carti011/Carti011/output/github-snake-dark.svg)
-
 ![Metrics](https://raw.githubusercontent.com/Carti011/Carti011/main/github-metrics.svg)
+
+![Snake animation](https://raw.githubusercontent.com/Carti011/Carti011/output/github-snake-dark.svg)
 
 </div>
