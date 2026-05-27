@@ -72,8 +72,6 @@ Construo software que resolve problema real. Backend Java/Spring + frontend Reac
 
 ![Metrics](https://raw.githubusercontent.com/Carti011/Carti011/main/github-metrics.svg)
 
-![3D Contribution](https://raw.githubusercontent.com/Carti011/Carti011/main/profile-3d-contrib/profile-night-view.svg)
-
 </div>
 
 ---
