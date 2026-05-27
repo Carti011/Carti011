@@ -12,6 +12,9 @@
 
 Construo software que resolve problema real. Backend Java/Spring + frontend React/Next. Cursando Engenharia de Software (FIAP).
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslleycarti/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weslleycardoso011@gmail.com)
+
 ---
 
 ## Stack
@@ -73,10 +76,3 @@ Construo software que resolve problema real. Backend Java/Spring + frontend Reac
 ![Metrics](https://raw.githubusercontent.com/Carti011/Carti011/main/github-metrics.svg)
 
 </div>
-
----
-
-## Conversar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslleycarti/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weslleycardoso011@gmail.com)
